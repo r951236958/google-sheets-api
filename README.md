@@ -1,5 +1,7 @@
 # Google Sheets API Codelab
 
+[![Run on Repl.it](https://repl.it/badge/github/r951236958/google-sheets-api)](https://repl.it/github/r951236958/google-sheets-api)
+
 This folder contains the source code for the Google Sheets API codelab. It
 covers how to integrate the API into your application to provide custom
 reporting capabilities to your users.
